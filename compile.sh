@@ -1,1 +1,1 @@
-nim compile --run ifyr.nim
+nim compile ifyr.nim
